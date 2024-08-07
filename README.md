@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me through email 
-- 
+- w
 - ⚡ Fun fact: I am doing bca  from kasturba
 
 <!---
